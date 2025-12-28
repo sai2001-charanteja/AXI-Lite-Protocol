@@ -1,0 +1,7 @@
+../RTL/axi_pkg.sv
+../RTL/axi_if.sv
+../RTL/axi_lite.sv
+../RTL/axi_environment.sv
+../RTL/axi_test.sv
+../RTL/axi_tb.sv
+../RTL/axi_top.sv
