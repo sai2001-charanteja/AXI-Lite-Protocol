@@ -33,7 +33,7 @@ The module allows for flexibility through specific configurable parameters, prim
 
 A simple register array serves as the memory space for the Control and Status Registers (CSRs). The structure allows for variable data and address widths based on the parameters defined above.
 
-** Logic Definition: **
+## Logic Definition: ##
 ```systemverilog
   logic [DATA_WIDTH-1:0] mem[ADDRESS_WIDTH-1:0]
 
