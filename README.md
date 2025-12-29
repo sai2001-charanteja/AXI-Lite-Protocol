@@ -1,5 +1,12 @@
 # Architecture Overview:
 
+# Signals 
+
+<p align="center">
+  <img src="doc/axi.png" width="500">
+</p>
+
+
 # The Five Channels:
 
     The AXI4-Lite protocol is based on five independent channels, each utilizing a two-way VALID/READY handshake for reliable data transfer.
